@@ -1,0 +1,1 @@
+A Google Voice SMS scraper written in Java. The program connects to Google Voice with a standard HTTP connection and downloads the HTML of the SMS messages page. It then uses various string manipulation techniques to extract SMS data and parse it as necessary.
